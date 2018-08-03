@@ -1,0 +1,45 @@
+E:\Backup USB - School\2016-2017\ICT\Programeren\Thuis\Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.exe.config
+E:\Backup USB - School\2016-2017\ICT\Programeren\Thuis\Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.exe
+E:\Backup USB - School\2016-2017\ICT\Programeren\Thuis\Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.pdb
+E:\Backup USB - School\2016-2017\ICT\Programeren\Thuis\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.csprojResolveAssemblyReference.cache
+E:\Backup USB - School\2016-2017\ICT\Programeren\Thuis\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties_berekenen.Form1.resources
+E:\Backup USB - School\2016-2017\ICT\Programeren\Thuis\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties_berekenen.Properties.Resources.resources
+E:\Backup USB - School\2016-2017\ICT\Programeren\Thuis\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.csproj.GenerateResource.Cache
+E:\Backup USB - School\2016-2017\ICT\Programeren\Thuis\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.exe
+E:\Backup USB - School\2016-2017\ICT\Programeren\Thuis\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.pdb
+C:\Users\School Kevin\Documents\Visual Studio 2015\Projects\Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.exe.config
+C:\Users\School Kevin\Documents\Visual Studio 2015\Projects\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.exe
+C:\Users\School Kevin\Documents\Visual Studio 2015\Projects\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.pdb
+C:\Users\School Kevin\Documents\Visual Studio 2015\Projects\Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.exe
+C:\Users\School Kevin\Documents\Visual Studio 2015\Projects\Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.pdb
+C:\Users\School Kevin\Documents\Visual Studio 2015\Projects\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.csprojResolveAssemblyReference.cache
+C:\Users\School Kevin\Documents\Visual Studio 2015\Projects\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties_berekenen.Form1.resources
+C:\Users\School Kevin\Documents\Visual Studio 2015\Projects\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties_berekenen.Properties.Resources.resources
+C:\Users\School Kevin\Documents\Visual Studio 2015\Projects\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.csproj.GenerateResource.Cache
+E:\Programmeren_privé\Declaraties berekenen\Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.exe.config
+E:\Programmeren_privé\Declaraties berekenen\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.exe
+E:\Programmeren_privé\Declaraties berekenen\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.pdb
+E:\Programmeren_privé\Declaraties berekenen\Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.exe
+E:\Programmeren_privé\Declaraties berekenen\Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.pdb
+E:\Programmeren_privé\Declaraties berekenen\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.csprojResolveAssemblyReference.cache
+E:\Programmeren_privé\Declaraties berekenen\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties_berekenen.Form1.resources
+E:\Programmeren_privé\Declaraties berekenen\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties_berekenen.Properties.Resources.resources
+E:\Programmeren_privé\Declaraties berekenen\Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.csproj.GenerateResource.Cache
+E:\Programmeren_privé\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.exe.config
+E:\Programmeren_privé\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.exe
+E:\Programmeren_privé\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.pdb
+E:\Programmeren_privé\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.exe
+E:\Programmeren_privé\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.pdb
+E:\Programmeren_privé\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.csprojResolveAssemblyReference.cache
+E:\Programmeren_privé\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties_berekenen.Form1.resources
+E:\Programmeren_privé\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties_berekenen.Properties.Resources.resources
+E:\Programmeren_privé\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.csproj.GenerateResource.Cache
+E:\Programmeren\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.exe.config
+E:\Programmeren\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.exe
+E:\Programmeren\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.pdb
+E:\Programmeren\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.exe
+E:\Programmeren\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\bin\Debug\Declaraties berekenen.pdb
+E:\Programmeren\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.csprojResolveAssemblyReference.cache
+E:\Programmeren\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties_berekenen.Form1.resources
+E:\Programmeren\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties_berekenen.Properties.Resources.resources
+E:\Programmeren\Declaraties berekenen\0.2_Declaraties berekenen\Declaraties berekenen\obj\Debug\Declaraties berekenen.csproj.GenerateResource.Cache

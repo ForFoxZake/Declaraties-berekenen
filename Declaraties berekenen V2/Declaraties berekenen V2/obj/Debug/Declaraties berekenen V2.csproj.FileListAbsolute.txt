@@ -1,0 +1,11 @@
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\bin\Debug\Declaraties berekenen V2.exe.config
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\bin\Debug\Declaraties berekenen V2.exe
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\bin\Debug\Declaraties berekenen V2.pdb
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\obj\Debug\Declaraties berekenen V2.csprojResolveAssemblyReference.cache
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\obj\Debug\Declaraties_berekenen_V2.Form1.resources
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\obj\Debug\Declaraties_berekenen_V2.Properties.Resources.resources
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\obj\Debug\Declaraties berekenen V2.csproj.GenerateResource.Cache
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\obj\Debug\Declaraties berekenen V2.exe
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\obj\Debug\Declaraties berekenen V2.pdb
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\obj\Debug\Declaraties_berekenen_V2.HomeUserControl.resources
+E:\Programmeren\Declaraties berekenen V2\Declaraties berekenen V2\obj\Debug\Declaraties_berekenen_V2.AddUserControl.resources
